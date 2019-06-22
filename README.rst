@@ -5,9 +5,6 @@ IT Risk Management
 =======================
 
 
-.. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0001.jpg
-
-
 .. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0002.jpg
 
 
