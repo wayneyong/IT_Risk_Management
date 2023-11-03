@@ -15,3 +15,10 @@ IT Threats Vulnerability and Risk
 
 
 .. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0007.jpg
+
+=======================
+
+Risk
+                
+=======================
+
