@@ -18,7 +18,7 @@ IT Threats Vulnerability and Risk
 
 =======================
 
-Risk
+Governance, Risk Management and Compliance
                 
 =======================
 
