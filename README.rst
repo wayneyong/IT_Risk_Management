@@ -5,16 +5,16 @@ IT Threats Vulnerability and Risk
 =======================
 
 
-.. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0002.jpg
+.. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0009.jpg
 
 
-.. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0003.jpg
+.. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0010.jpg
 
 
-.. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0004.jpg
+.. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0011.jpg
 
 
-.. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0007.jpg
+.. image:: https://raw.githubusercontent.com/wayneyong/it_risk_management/master/IMG_0012.jpg
 
 =======================
 
